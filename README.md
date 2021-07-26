@@ -20,5 +20,5 @@ The website works best in chrome browser
 {For any support email simonkairu14@gmail.com.}
 ### License
 MIT
-Copyright (c) {2021} **{List of contributors or company name}**
+Copyright (c) {2021} **{simon kairu,moringa school}**
   
