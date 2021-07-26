@@ -1,6 +1,6 @@
 # StreetFood-Website
 StreetFood Landing Page using Html and Css
-# {Application Name}
+# STREET FOOD WEBSITE 
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
