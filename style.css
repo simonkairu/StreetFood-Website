@@ -15,7 +15,10 @@ nav{
    margin-right: 10%;
    text-align: center;
    
+   
 }
+
+
 
 nav ul{
    text-align: left;
@@ -44,6 +47,7 @@ box-shadow: 5px 5px 15px red;
 background: pink;
 color: rgba(0, 35, 122, 0.7);
 }
+
 
 
 
@@ -232,8 +236,3 @@ margin-right: 20px;
   }
 
 
-
-  
-   
-    
-  
