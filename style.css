@@ -6,6 +6,7 @@ body{
 .header{
 
    background-color: lightgrey;
+  
 }
 
 nav{
@@ -18,10 +19,9 @@ nav{
    
 }
 
-.sec{
-   background-color: lightgrey;
 
-}
+
+
 
 
 nav ul{
