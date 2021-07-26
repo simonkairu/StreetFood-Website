@@ -19,6 +19,6 @@ The website works best in chrome browser
 ## Support and contact details
 {For any support email simonkairu14@gmail.com.}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT
 Copyright (c) {year} **{List of contributors or company name}**
   
