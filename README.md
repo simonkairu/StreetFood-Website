@@ -4,7 +4,7 @@ StreetFood Landing Page using Html and Css
 #### {This is a website where people buy food}, {25/07/2021}
 #### By **{By simon kairu}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a website for selling food online where clients gets to make their orders and it is d}
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
