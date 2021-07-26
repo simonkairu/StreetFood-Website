@@ -1,0 +1,239 @@
+body{
+   
+    font-family: 'Poppins', sans-serif;
+}
+
+.header{
+
+   background-color: lightgrey;
+}
+
+nav{
+   
+   margin: 0 auto;
+   padding: 10px 0;
+   margin-right: 10%;
+   text-align: center;
+   
+}
+
+nav ul{
+   text-align: left;
+}
+
+nav ul li{
+   display: inline-block;
+}
+
+nav ul li a {
+
+padding: 18px;
+margin-right: 0;
+text-transform: uppercase;
+text-decoration: none;
+display: block;
+color: black;
+border-radius: 20px;
+
+}
+
+
+nav ul li a:hover {
+
+box-shadow: 5px 5px 15px red;
+background: pink;
+color: rgba(0, 35, 122, 0.7);
+}
+
+
+
+
+.para{
+    margin-left: 10%;
+    
+}
+
+span{
+   color:#6CB840 ;
+}
+#colour{
+   color:#EAAB1B;
+}
+.btn{
+    border-radius: 20px;
+    background-color: #6CB840;
+    border-color: #6CB840;
+    color: white;
+   
+   padding: 10px 15px;
+   display: inline-block;
+   font-size: 20px;
+}
+
+
+
+
+
+img {
+ float: left;
+ margin-left: 15%;
+ 
+}
+
+.eat{
+   text-align: right;
+   margin-right: 15%;
+}
+
+.menu{
+   padding-top: 10%;
+   text-align: center;
+  
+}
+
+
+
+.container{
+  
+    background-color: lightgrey;
+    
+}
+
+
+
+
+
+.name{
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+
+.how{
+    margin: 60px;
+    margin-bottom: 40px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 0 0 30px;
+    position: relative;
+    background: white;
+    height: auto;
+  
+
+}
+
+.img{
+    position: absolute;
+    left: -60px;
+    
+    
+}
+
+.how p{
+text-align: center;
+margin-left: 20%;
+}
+
+
+
+
+.container{
+   padding: 0 2px;
+   
+       
+
+}
+
+
+.burger-image{
+   float: left;
+
+}
+  
+  .hot{
+     text-align: right;
+     margin-left: 10%;
+     margin-right: 10%;
+     background-color: #C9ECB5
+      
+   
+  }
+   .pack{
+      margin-right: 10%;
+   }
+
+  #deals{
+     text-align: center;
+  }
+
+
+  #pizz{
+     padding-right: 15%;
+  }
+
+
+  .cont{
+     
+     text-align: center;
+     margin-left: 10%;
+     margin-right: 10%;
+     background-color: #FFD77C
+     
+     
+   
+  }
+
+  #now{
+     text-align: center;
+  }
+
+  
+  .mail{
+    
+    margin:10px 0;
+   
+  }
+
+  .footer{
+     display: flex;
+     margin-left: 10%;
+     justify-content: space-between;
+     margin-right: 10%;
+     background-color: #C9ECB5
+     
+  }
+  #bot{
+     background-color: #6CB840;
+  }
+  #fol{
+margin-right: 20px;
+  }
+  #san{
+     margin-left: 20px;
+  }
+
+  .that{
+
+   border-right: dashed;
+   margin: 10px;
+   
+   
+  }
+  .all{
+     margin-top: 20px;
+     margin-bottom: 20px;
+     display: flex;
+     justify-content: space-between;
+     margin: 20px;
+  }
+
+  .folo{
+     padding-left: 280px;
+  }
+
+
+
+  
+   
+    
+  
